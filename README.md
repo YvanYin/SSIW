@@ -22,7 +22,7 @@ python tools/test.py --config test_720_ss --user_label dog mouse horse rug_floor
 ```
 Here is the comparison between adding label "cat" or not:
 
-![image](Test_Minist/ann_imgs/img8_vis_1.png)![image](Test_Minist/ann_imgs/img8_vis_2.png)
+![image](https://github.com/irfanICMLL/SSIW/blob/master/Test_Minist/ann_imgs/img8_vis_1.png)![image](https://github.com/irfanICMLL/SSIW/blob/master/Test_Minist/ann_imgs/img8_vis_2.png)
 
 
 ## Define new labels

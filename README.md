@@ -31,3 +31,5 @@ You can also define your own categories described by sentences, for instance:
 python tools/test.py --config test_720_ss --new_definitions="{'deer': 'This is an image of deer, similar to sheep or dog.'}"
 ```
 
+## License
+This code is for non-commercial use only. It's released under GPL license. For commercial use, please contact authors.

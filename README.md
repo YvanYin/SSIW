@@ -31,5 +31,18 @@ You can also define your own categories described by sentences, for instance:
 python tools/test.py --config test_720_ss --new_definitions="{'deer': 'This is an image of deer, similar to sheep or dog.'}"
 ```
 
+## 📧 Citation
+```
+@article{SSIW,
+  title={Scaling Up Multi-domain Semantic Segmentation with Sentence Embeddings},
+  author={Yin, Wei and Liu, Yifan and Shen, Chunhua and Sun, Baichuan and van den Hengel, Anton},
+  journal={International Journal of Computer Vision},
+  pages={1--16},
+  year={2024},
+  publisher={Springer}
+}
+```
+
+
 ## License
 This code is for non-commercial use only. It's released under GPL license. For commercial use, please contact authors.
